@@ -9,3 +9,8 @@ File.AppendAllText(dosyaYolu,"\nBu satır sonradan eklendi");
 string icerik = File.ReadAllText(dosyaYolu);
 
 Console.WriteLine("İçerik:"+icerik);
+
+if(!Directory.Exists("C\\BTKAkademi"))
+    Directory.CreateDirectory("C\\BTKAkademi");
+    
+File.Copy(dosyaYolu, "C\\BTKAkademi\\belge.txt");

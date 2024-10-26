@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u10_klasorIslemleri", "u10_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u11_dosyaIslemleri", "u11_dosyaIslemleri\u11_dosyaIslemleri.csproj", "{3CCEE10D-ED5A-42D1-91EA-7E5665D71DD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u12_hataYöntemi", "u12_hataYöntemi\u12_hataYöntemi.csproj", "{F69913D6-8ED1-49FF-829E-F576D826C13A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{3CCEE10D-ED5A-42D1-91EA-7E5665D71DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CCEE10D-ED5A-42D1-91EA-7E5665D71DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CCEE10D-ED5A-42D1-91EA-7E5665D71DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69913D6-8ED1-49FF-829E-F576D826C13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69913D6-8ED1-49FF-829E-F576D826C13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69913D6-8ED1-49FF-829E-F576D826C13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69913D6-8ED1-49FF-829E-F576D826C13A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
