@@ -1,0 +1,14 @@
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\bin\Debug\net7.0\u11_dosyaIslemleri.exe
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\bin\Debug\net7.0\u11_dosyaIslemleri.deps.json
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\bin\Debug\net7.0\u11_dosyaIslemleri.runtimeconfig.json
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\bin\Debug\net7.0\u11_dosyaIslemleri.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\bin\Debug\net7.0\u11_dosyaIslemleri.pdb
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\obj\Debug\net7.0\u11_dosyaIslemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\obj\Debug\net7.0\u11_dosyaIslemleri.AssemblyInfoInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\obj\Debug\net7.0\u11_dosyaIslemleri.AssemblyInfo.cs
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\obj\Debug\net7.0\u11_dosyaIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\obj\Debug\net7.0\u11_dosyaIslemleri.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\obj\Debug\net7.0\refint\u11_dosyaIslemleri.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\obj\Debug\net7.0\u11_dosyaIslemleri.pdb
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\obj\Debug\net7.0\u11_dosyaIslemleri.genruntimeconfig.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u11_dosyaIslemleri\obj\Debug\net7.0\ref\u11_dosyaIslemleri.dll
