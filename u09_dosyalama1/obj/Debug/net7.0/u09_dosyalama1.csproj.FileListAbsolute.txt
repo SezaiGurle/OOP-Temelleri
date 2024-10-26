@@ -1,0 +1,14 @@
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\bin\Debug\net7.0\u09_dosyalama1.exe
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\bin\Debug\net7.0\u09_dosyalama1.deps.json
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\bin\Debug\net7.0\u09_dosyalama1.runtimeconfig.json
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\bin\Debug\net7.0\u09_dosyalama1.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\bin\Debug\net7.0\u09_dosyalama1.pdb
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\obj\Debug\net7.0\u09_dosyalama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\obj\Debug\net7.0\u09_dosyalama1.AssemblyInfoInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\obj\Debug\net7.0\u09_dosyalama1.AssemblyInfo.cs
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\obj\Debug\net7.0\u09_dosyalama1.csproj.CoreCompileInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\obj\Debug\net7.0\u09_dosyalama1.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\obj\Debug\net7.0\refint\u09_dosyalama1.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\obj\Debug\net7.0\u09_dosyalama1.pdb
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\obj\Debug\net7.0\u09_dosyalama1.genruntimeconfig.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u09_dosyalama1\obj\Debug\net7.0\ref\u09_dosyalama1.dll
