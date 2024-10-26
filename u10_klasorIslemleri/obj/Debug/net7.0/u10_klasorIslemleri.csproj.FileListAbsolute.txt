@@ -1,0 +1,14 @@
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\bin\Debug\net7.0\u10_klasorIslemleri.exe
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\bin\Debug\net7.0\u10_klasorIslemleri.deps.json
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\bin\Debug\net7.0\u10_klasorIslemleri.runtimeconfig.json
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\bin\Debug\net7.0\u10_klasorIslemleri.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\bin\Debug\net7.0\u10_klasorIslemleri.pdb
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\obj\Debug\net7.0\u10_klasorIslemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\obj\Debug\net7.0\u10_klasorIslemleri.AssemblyInfoInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\obj\Debug\net7.0\u10_klasorIslemleri.AssemblyInfo.cs
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\obj\Debug\net7.0\u10_klasorIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\obj\Debug\net7.0\u10_klasorIslemleri.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\obj\Debug\net7.0\refint\u10_klasorIslemleri.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\obj\Debug\net7.0\u10_klasorIslemleri.pdb
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\obj\Debug\net7.0\u10_klasorIslemleri.genruntimeconfig.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u10_klasorIslemleri\obj\Debug\net7.0\ref\u10_klasorIslemleri.dll
