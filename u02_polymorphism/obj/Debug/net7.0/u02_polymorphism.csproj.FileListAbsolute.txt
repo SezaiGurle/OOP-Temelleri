@@ -1,0 +1,14 @@
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\bin\Debug\net7.0\u02_polymorphism.exe
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\bin\Debug\net7.0\u02_polymorphism.deps.json
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\bin\Debug\net7.0\u02_polymorphism.runtimeconfig.json
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\bin\Debug\net7.0\u02_polymorphism.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\bin\Debug\net7.0\u02_polymorphism.pdb
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\obj\Debug\net7.0\u02_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\obj\Debug\net7.0\u02_polymorphism.AssemblyInfoInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\obj\Debug\net7.0\u02_polymorphism.AssemblyInfo.cs
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\obj\Debug\net7.0\u02_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\obj\Debug\net7.0\u02_polymorphism.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\obj\Debug\net7.0\refint\u02_polymorphism.dll
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\obj\Debug\net7.0\u02_polymorphism.pdb
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\obj\Debug\net7.0\u02_polymorphism.genruntimeconfig.cache
+C:\Users\sezai\OneDrive\Masaüstü\OOP Temelleri\u02_polymorphism\obj\Debug\net7.0\ref\u02_polymorphism.dll

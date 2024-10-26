@@ -7,14 +7,14 @@ public class Mudur : Personel
     Personel[] calisanlar = new Personel[10];
     public Mudur(int id): base(id) //önce Personel oluşturulsun
     {
-        Console.WriteLine("Müdür yapıcı metodu çalıştı.");
+        Console.WriteLine("Müdür yapici methodu çalisti.");
     }
 
     public void CalisanEkle(Personel p)
     {
         if(calisanSayisi>=calisanlar.Length)
         {
-            Console.WriteLine("Yeni personle eklenemez. Sınır doldu.");
+            Console.WriteLine("Yeni personle eklenemez. Sinir doldu.");
         }
         calisanlar[calisanSayisi] = p;
         calisanSayisi++;
@@ -22,11 +22,14 @@ public class Mudur : Personel
 
     public void CalisanlariListele()
     {
-        Console.WriteLine($"{Ad} {Soyad} altında çalışan personleller:");
+        Console.WriteLine($"{Ad} {Soyad} altinda çalişan personleller:");
         for(int i=0; i < calisanSayisi;i++)
         {
             calisanlar[i].Yazdir();
         }
     }
-
+    public override void Yazdir() //virtual ---> override
+    {
+        Console.WriteLine($"{Id} - {Ad} - Müdür");
+    }
 }

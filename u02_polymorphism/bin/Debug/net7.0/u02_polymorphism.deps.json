@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "u02_polymorphism/1.0.0": {
+        "runtime": {
+          "u02_polymorphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u02_polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
